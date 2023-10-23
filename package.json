@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@ionic/react": "7.5.1",
+    "@ionic/react-router": "7.5.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0"
+  },
+  "main": "/index.js",
+  "devDependencies": {},
+  "name": "7fm4s7",
+  "description": null,
+  "version": "0.0.105",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
